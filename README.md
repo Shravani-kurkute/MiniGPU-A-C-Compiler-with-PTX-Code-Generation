@@ -1,1 +1,1 @@
-# MiniGPU---A-C-Compiler-with-PTX-Code-Generation
+# MiniGPU-A-C-Compiler-with-PTX-Code-Generation
